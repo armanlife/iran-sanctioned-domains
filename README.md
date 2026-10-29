@@ -1,11 +1,11 @@
-<div dir=ltr>
+<div dir="rtl">
 
-## لیست دامنه های که به خاطر تحریم های بین المللی در ایران قابل دسترس نیستند
+# لیست دامنه‌هایی که به خاطر تحریم‌های بین‌المللی از ایران قابل دسترس نیستند
 
-# پروژه های وابسته
-- [لیست دامنه های فیلتر شده در ایران][link-ir-blocked-domain]
+## پروژه‌های مرتبط
 
-</div> 
+- [لیست دامنه‌های فیلترشده در ایران][link-iran-blocked-domains]
 
+</div>
 
-[link-ir-blocked-domain]: https://github.com/filteryab/ir-blocked-domain
+[link-iran-blocked-domains]: https://github.com/armanlife/iran-blocked-domains
